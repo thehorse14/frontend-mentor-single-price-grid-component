@@ -58,7 +58,9 @@ body {
   gap: 0.5em;
   border-radius: 0 0 0 5px;
 }
-
+.monthly-sub {
+  color: hsl(204, 43%, 93%);
+}
 .price {
   display: flex;
   align-items: center;
